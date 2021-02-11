@@ -16,7 +16,7 @@ SECRET_KEY = '-$gf09_=2hyxjx-ub*9ar^iea^k9a2xd%$kn#aadi#hy34s^qy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dishant-bs.herokuapp.com','127.0.0.1']
 
 
 # Application definition
